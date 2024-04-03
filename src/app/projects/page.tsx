@@ -11,10 +11,10 @@ import logoPlanetaria from '@/images/logos/planetaria.svg'
 
 const projects = [
   {
-    name: 'Planetaria',
+    name: 'Loggerview',
     description:
-      'Creating technology to empower civilians to explore space on their own terms.',
-    link: { href: 'http://planetaria.tech', label: 'planetaria.tech' },
+      'On-demand parsing helps you search, merge, report and more. Stop using a text editor and get more value from your log files.',
+    link: { href: 'https://loggerview.com', label: 'loggerview' },
     logo: logoPlanetaria,
   },
   {
